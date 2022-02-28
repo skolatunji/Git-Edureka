@@ -1,1 +1,2 @@
 This is my codefile written in word and executed with python. This is a sample file, though.
+This is the second line update in this coding experimentation with git push and git pull. 
